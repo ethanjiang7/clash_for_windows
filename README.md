@@ -3,10 +3,11 @@
 
 Fndroid/clash_for_windows_pkg/releases 最后备份文件，文件未进行任何修改，可以进行md5比对。
 
-## 下载
+## Clash for Windows官网导航
+- [Clash for Windows v0.20.39 releases](https://github.com/clashbk/clash_for_windows/releases/tag/0.20.39)
+- [Clash for Windows 使用教程](https://github.com/clashbk/clash/wiki/clash-for-Windows)
 
-[v0.20.39 releases](https://github.com/clashbk/clash_for_windows/releases/tag/0.20.39)
+机场推荐：
 
-机场推荐：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】
-免费观看netflix、disney+、primevideo、hbomax，
-九折优惠码：LxwSsaay
+- 【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  免费观看netflix、disney+、primevideo、hbomax   九折优惠码：LxwSsaay
+- 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  150G/9元/月  免账号观看disney+   九折优惠码：3UJuVnqS
